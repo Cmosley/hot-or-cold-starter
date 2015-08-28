@@ -120,7 +120,7 @@ $(document).ready(function(){
 	}
 
 	
-/*  Hot + cold example http://scotts0rensen.github.io/hot-or-cold/#
+/* First Hot + cold example http://scotts0rensen.github.io/hot-or-cold/#
 
 			function newGame() {
 			  resetGuessCount();
@@ -206,7 +206,7 @@ $(document).ready(function(){
 
 
 
-/*  Hot + cold example http://andraroston.github.io/hot-or-cold-app/index.html#
+/*  Second Hot + cold example http://andraroston.github.io/hot-or-cold-app/index.html#
 
 $(document).ready(function(){
 
